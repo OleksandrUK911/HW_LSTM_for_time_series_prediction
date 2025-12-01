@@ -194,8 +194,8 @@ class AirModel(nn.Module):
 
 **Олександр Скакун**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@OleksandrUK911](https://github.com/OleksandrUK911)
+- linkedin: https://www.linkedin.com/in/oleksandr-skakun/
 
 ## 🙏 Подяки
 
